@@ -1,4 +1,4 @@
 output/*
 pelicanconf.pyc
-pelican.pid srv.pid
-./node_modules/
+*.pid
+node_modules
