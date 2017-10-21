@@ -1,0 +1,19 @@
+{
+  "name": "deadlight.net",
+  "version": "0.0.1",
+  "description": "deadlight.net website",
+  "keywords": [
+    "website",
+    "deadlight"
+  ],
+  "author": "Karl Williams",
+  "dependencies": {
+    "vanilla-framework": "1.6.x",
+    "watch-cli": "^0.2.2",
+    "sass-lint": "^1.10.2",
+    "postcss-cli": "^4.1.0",
+    "node-sass": "^4.5.3",
+    "cssnano": "^3.10.0",
+    "autoprefixer": "^6.3.1"
+  }
+}
